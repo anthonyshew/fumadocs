@@ -1,5 +1,14 @@
 # next-docs-ui
 
+## 10.0.1
+
+### Patch Changes
+
+- 0e78dc8f: Support customising search API URL
+- Updated dependencies [0e78dc8f]
+- Updated dependencies [d8483a81]
+  - fumadocs-core@10.0.1
+
 ## 10.0.0
 
 ### Major Changes

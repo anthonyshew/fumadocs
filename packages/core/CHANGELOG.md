@@ -1,5 +1,12 @@
 # next-docs-zeta
 
+## 10.0.1
+
+### Patch Changes
+
+- 0e78dc8f: Support customising search API URL
+- d8483a81: Remove undefined values from page tree
+
 ## 10.0.0
 
 ### Major Changes
